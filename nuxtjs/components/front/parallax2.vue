@@ -17,7 +17,7 @@
     
 </style>
 <template>
-  <v-parallax class="overlayed2" src="/slide4.jpg" height="525" >
+  <v-parallax class="overlayed2" src="/assets/images/slide4.jpg" height="525" >
     <v-container grid-list-xl>
       <v-layout wrap xs12>
         <v-flex display-1 xs12 text-xs-center font-weight-medium my-3>Photo Galleries</v-flex>
@@ -26,7 +26,7 @@
                 md6
                 lg6
                 d-flex>
-          <v-img class="d-flex" gradient src="/leftgallery.jpg" aspect-ratio="1.7" />
+          <v-img class="d-flex" gradient src="/assets/images/leftgallery.jpg" aspect-ratio="1.7" />
         </v-flex>
 
 
@@ -38,16 +38,16 @@
                 d-flex>
           <v-layout wrap>
             <v-flex xs6>
-              <v-img class="d-flex" gradient src="/right1gallery.jpg" aspect-ratio="1.7" />
+              <v-img class="d-flex" gradient src="/assets/images/right1gallery.jpg" aspect-ratio="1.7" />
             </v-flex>
             <v-flex xs6>
-              <v-img class="d-flex" gradient src="/right2gallery.jpg" aspect-ratio="1.7" />
+              <v-img class="d-flex" gradient src="/assets/images/right2gallery.jpg" aspect-ratio="1.7" />
             </v-flex>
             <v-flex xs6>
-              <v-img class="d-flex" gradient src="/right3gallery.jpg" aspect-ratio="1.7" />
+              <v-img class="d-flex" gradient src="/assets/images/right3gallery.jpg" aspect-ratio="1.7" />
             </v-flex>
             <v-flex xs6>
-              <v-img class="d-flex" gradient src="/right4gallery.jpg" aspect-ratio="1.7" />
+              <v-img class="d-flex" gradient src="/assets/images/right4gallery.jpg" aspect-ratio="1.7" />
             </v-flex>
           </v-layout>
         </v-flex>

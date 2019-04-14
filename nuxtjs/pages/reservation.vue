@@ -1,6 +1,6 @@
 <template>
     <div>
-        <v-parallax class="overlayed" src="/slide1.jpg" height="250">
+        <v-parallax class="overlayed" src="/assets/images/slide1.jpg" height="250">
             <div class="middle text-xs-center px-3">
                 <p class="font-weight-thin display-1">MAKE A RESERVATION</p>
                 <p class="font-weight-thin subheading">For media enquiries, please contact: eMail: info@villabukitnaga.com, Tel - Bali // +62 811 388 11 22</p>

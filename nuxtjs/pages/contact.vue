@@ -1,6 +1,6 @@
 <template>
     <div>
-        <v-flex xs12 white style="background: url(/loading.gif) no-repeat center;">
+        <v-flex xs12 white style="background: url(/assets/images/loading.gif) no-repeat center;">
             <iframe frameborder="0" height="500" src="http://maps.google.com/maps?q=-8.5164534,115.3338111&amp;z=15&amp;output=embed" width="100%"></iframe>
         </v-flex>
 

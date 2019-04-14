@@ -26,7 +26,7 @@
             <carousel :mouse-drag="true" :navigationEnabled="true" :paginationEnabled="false" :perPageCustom="[[300, 1],[800, 2], [1250, 3]]">
               <slide class="swidth">
                 <v-flex text-xs-center style="padding:15px;">
-                  <v-img src="/img/GEDEPARTAYASA.jpg" />
+                  <v-img src="/assets/img/GEDEPARTAYASA.jpg" />
                   <v-flex  class="headline" style="text-align: center;padding-top:8px;margin-top:20px;">GEDE PARTA YASA</v-flex>
                   <v-btn flat href="/employee/erma"  class="subheading" font-weight-thin style="text-align: center;">Villa Manager</v-btn>
 
@@ -34,7 +34,7 @@
               </slide>
               <slide class="swidth">
                 <v-flex text-xs-center style="padding:15px;">
-                  <v-img src="/img/ERMASUSANTI.jpg"  />
+                  <v-img src="/assets/img/ERMASUSANTI.jpg"  />
                   <v-flex  class="headline" style="text-align: center;padding-top:8px;margin-top:20px;">ERMA SUSANTI</v-flex>
                   <v-btn flat href="/employee/erma"  class="subheading" font-weight-thin style="text-align: center;">Reservation Manager</v-btn>
 
@@ -42,7 +42,7 @@
               </slide>
               <slide class="swidth">
                 <v-flex text-xs-center style="padding:15px;">
-                  <v-img src="/img/LUHPUTU.jpg"  />
+                  <v-img src="/assets/img/LUHPUTU.jpg"  />
                   <v-flex class="headline" style="text-align: center;padding-top:8px;margin-top:20px;">LUH PUTU WIDIYASIH</v-flex>
                   <v-btn flat href="/employee/luhputu"  class="subheading" font-weight-thin style="text-align: center;">Chef</v-btn>
 
@@ -50,7 +50,7 @@
               </slide>
               <slide class="swidth">
                 <v-flex text-xs-center style="padding:15px;">
-                  <v-img src="/img/IMADE.jpg"  />
+                  <v-img src="/assets/img/IMADE.jpg"  />
                   <v-flex class="headline" style="text-align: center;padding-top:8px;margin-top:20px;">I MADE WIDIARTA</v-flex>
                   <v-btn flat href="/employee/imade"  class="subheading" font-weight-thin style="text-align: center;">Villa Manager</v-btn>
 
@@ -59,7 +59,7 @@
               <slide class="swidth">
                 <v-flex text-xs-center style="padding:15px;">
 
-                  <v-img src="/img/MNT.jpg"  />
+                  <v-img src="/assets/img/MNT.jpg"  />
                   <v-flex class="headline" style="text-align: center;padding-top:8px;margin-top:20px;">MANAGER AND TEAM</v-flex>
                   <v-btn flat href="/employee/mnt"  class="subheading" style="text-align: center;">MANAGER AND TEAM</v-btn>
 
@@ -67,7 +67,7 @@
               </slide>
               <slide class="swidth">
                 <v-flex text-xs-center style="padding:15px;">
-                  <v-img src="/img/HGS.jpg"  />
+                  <v-img src="/assets/img/HGS.jpg"  />
                   <v-flex class="headline" style="text-align: center;padding-top:8px;margin-top:20px;">HOUSEKEEPING SECURITY</v-flex>
                   <v-btn flat href="/employee/hgs" class="subheading" style="text-align: center;">HOUSEKEEPING SECURITY</v-btn>
                 </v-flex>

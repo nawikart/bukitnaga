@@ -6,7 +6,7 @@
     </v-flex>
     <v-layout id="press" mt-4 row wrap font-weight-light subheading>
       <v-flex item xs12 sm6 md4 py-4>
-        <img src="/press/press_baccarat_2009.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
+        <img src="/assets/press/press_baccarat_2009.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
         <h3 style="margin:10px 0;">BACCARAT - Jun 2009</h3>
         <p style="font-size:13px;">
           villa bukit naga. serene estate of six spacious suites based around a spiral staircased main house. volcanic views, literally.
@@ -15,7 +15,7 @@
         <v-btn small outline color="info" href="/press/baccarat_2009.pdf" style="margin-top:15px;" >download pdf</v-btn>
       </v-flex>
       <v-flex item xs12 sm6 md4 py-4>
-        <img src="/press/timeout.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
+        <img src="/assets/press/timeout.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
         <h3 style="margin:10px 0;">TimeOut - Nov 2009</h3>
         <p style="font-size:13px;">
 
@@ -24,7 +24,7 @@
         <v-btn small outline color="info" href="/press/TimeOut_2009.pdf" style="margin-top:15px;">download pdf</v-btn>
       </v-flex>
       <v-flex item xs12 sm6 md4 py-4>
-        <img src="/press/elle_2010.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
+        <img src="/assets/press/elle_2010.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
         <h3 style="margin:10px 0;">ELLE - April 2010</h3>
         <p style="font-size:13px;">
 
@@ -35,7 +35,7 @@
       </v-flex>
 
       <v-flex item xs12 sm6 md4 py-4>
-        <img src="/press/elle.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
+        <img src="/assets/press/elle.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
         <h3 style="margin:10px 0;">ELLE - April 2010</h3>
         <p style="font-size:13px;">
 
@@ -49,7 +49,7 @@
 
 
       <v-flex item xs12 sm6 md4 py-4>
-        <img src="/press/TRAVELLEISUREJuly2010.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
+        <img src="/assets/press/TRAVELLEISUREJuly2010.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
         <h3 style="margin:10px 0;">TRAVEL + LEISURE, July 2010</h3>
         <p style="font-size:13px;">
           Villa Bukit Naga leads this feature on best villas in Asia for luxury holidays with groups of friends or families.
@@ -57,7 +57,7 @@
         <v-btn small outline color="info" href="/press/TRAVELLEISURE July 2010.pdf.pdf" style="margin-top:15px;">download pdf</v-btn>
       </v-flex>
       <v-flex item xs12 sm6 md4 py-4>
-        <img src="/press/NewYorkTimes.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
+        <img src="/assets/press/NewYorkTimes.jpg" width="100" style="float:left;margin-right:20px;margin-top:9px;" />
         <h3 style="margin:10px 0;">New York Times online, January 2011</h3>
         <p style="font-size:13px;">
 

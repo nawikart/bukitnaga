@@ -9,7 +9,7 @@ import (
 
 func main() {
     r := mux.NewRouter()
-    // r.PathPrefix("/assets/").Handler(http.StripPrefix("/assets/", http.FileServer(http.Dir("./assets/"))))    
+    r.PathPrefix("/assets/").Handler(http.StripPrefix("/assets/", http.FileServer(http.Dir("./assets/"))))    
     
     routes.ApiRoutes(r)
     routes.NuxtjsRoutes(r)

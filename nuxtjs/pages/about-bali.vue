@@ -1,6 +1,6 @@
 <template>
     <v-flex xs12>
-        <v-parallax class="overlayed" src="/slide2.jpg" height="250">
+        <v-parallax class="overlayed" src="/assets/images/slide2.jpg" height="250">
             <div class="middle text-xs-center px-3">    
                 <p class="font-weight-light display-1">ABOUT UBUD, BALI</p>
                 <p class="font-weight-medium subheading">For media enquiries, please contact: eMail: info@villabukitnaga.com, Tel - Bali // +62 811 388 11 22</p>

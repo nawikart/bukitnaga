@@ -2,7 +2,7 @@
     <v-flex xs12>
         <v-layout row wrap font-weight-thin style="max-width:1600px;margin:auto;">
             <v-flex xs12 md7 py-5 px-4 order-xs2 order-md1>
-                    <img src="/villa.jpg" width="100%" />
+                    <img src="/assets/images/villa.jpg" width="100%" />
             </v-flex>
             <v-flex xs12 md5 py-5 px-4 font-weight-light subheading order-xs1 order-md2>
               <h2 class="font-weight-light display-3 blue--text">ABOUT VIILA</h2>
